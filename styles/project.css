@@ -1,0 +1,23 @@
+.project__link {
+  color: #ad1818;
+  font-size: 20px;
+  line-height: 27px;
+  letter-spacing: -0.03em;
+  text-decoration: none;
+}
+.project__foto {
+  width: 1150px;
+  height: 450px;
+  margin-bottom: 14px;
+}
+.project__description {
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 41px;
+  letter-spacing: -0.03em;
+  margin-bottom: 15px;
+  font-style: normal;
+}
+.project {
+  margin-bottom: 90px;
+}

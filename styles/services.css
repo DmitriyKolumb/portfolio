@@ -1,0 +1,27 @@
+.services {
+  margin-top: 3px;
+}
+.service__image {
+  margin-bottom: 14px;
+}
+.service__description {
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 41px;
+  letter-spacing: -0.03em;
+  font-style: normal;
+  padding-left: 4px;
+  padding-bottom: 60px;
+}
+.container-black {
+  width: 100%;
+  background-color: #121212;
+  margin: 0 auto;
+  padding-bottom: 90px;
+}
+
+.section-black {
+  margin: auto;
+  max-width: 1150px;
+  padding-top: 150px;
+}

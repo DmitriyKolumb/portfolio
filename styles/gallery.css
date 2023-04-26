@@ -1,0 +1,23 @@
+.gallery {
+  min-width: 1400px;
+  height: 717px;
+  background-size: cover;
+  position: relative;
+  background-image: url("../resources/sleeping-bed.png");
+  background-position: 50%;
+  background-repeat: no-repeat;
+}
+.gallery__text {
+  position: absolute;
+  bottom: 60px;
+  left: 125px;
+  font-size: 30px;
+  line-height: 41px;
+  letter-spacing: -0.03em;
+  color: #ffffff;
+  background-repeat: no-repeat;
+}
+.section__nopadd {
+  padding: 0;
+  width: 100%;
+}

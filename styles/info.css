@@ -1,0 +1,40 @@
+.info {
+  padding-bottom: 159px;
+  padding-top: 150px;
+  margin: 0 auto;
+  max-width: 1150px;
+}
+.info-margin {
+  margin-top: 29px;
+}
+.phone-before::before {
+  content: "";
+  display: block;
+  margin-bottom: 13px;
+  margin-left: -5px;
+  width: 24px;
+  height: 24px;
+  background-image: url("../resources/telephone-img.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.contacts__phone {
+  font-size: 60px;
+  line-height: 60px;
+  letter-spacing: -0.03em;
+  text-decoration: none;
+  margin-bottom: 30px;
+}
+.contacts__phone span {
+  padding-left: 10px;
+  letter-spacing: -0.025em;
+}
+.contacts__mail {
+  font-size: 60px;
+  line-height: 60px;
+  margin-left: 1px;
+  opacity: 0.5;
+  text-decoration: none;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.5);
+}

@@ -1,0 +1,50 @@
+.title-photo {
+  width: 1150px;
+  height: 500px;
+  background-image: url("../resources/foto-1.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.title-photo__text {
+  position: absolute;
+  width: 430px;
+  height: 81px;
+  color: #ffffff;
+  font-size: 20px;
+  line-height: 27px;
+  font-weight: 400;
+  letter-spacing: -0.03em;
+  left: 40px;
+  top: 382px;
+  bottom: 40px;
+}
+.information {
+  width: 1078px;
+  font-size: 45px;
+  line-height: 61px;
+  font-weight: 400;
+  letter-spacing: -0.03em;
+  margin-left: 2.9px;
+}
+.button-servies {
+  display: inline-block;
+  border-radius: 5px;
+  width: 255px;
+  height: 67px;
+  font-size: 20px;
+  letter-spacing: -0.03em;
+  line-height: 66px;
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #ad1818;
+  margin-top: 30px;
+  cursor: pointer;
+}
+.title {
+  padding-bottom: 150px;
+}
+.intro {
+  padding-bottom: 150px;
+}

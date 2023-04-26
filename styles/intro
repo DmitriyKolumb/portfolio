@@ -1,0 +1,23 @@
+.information {
+  width: 1078px;
+  font-size: 45px;
+  line-height: 61px;
+  font-weight: 400;
+  letter-spacing: -0.03em;
+  margin-left: 2.9px;
+}
+.button-servies {
+  display: inline-block;
+  border-radius: 5px;
+  width: 255px;
+  height: 67px;
+  font-size: 20px;
+  letter-spacing: -0.03em;
+  line-height: 66px;
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #ad1818;
+  margin-top: 30px;
+  cursor: pointer;
+}
